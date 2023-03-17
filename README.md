@@ -19,7 +19,9 @@ Using the slicing concept rotate the list
 def circulate():
     l=eval(input())
     n=int(input())
-    print("After circulating the values are: {}".format(l[n:]+l[:n]))
+    l=l[n:]+l[:n]
+    print("After circulating the values are:",l)
+
 ```
 
 ## Output:

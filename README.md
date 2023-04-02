@@ -20,6 +20,9 @@ By using concatenation operator ,it will join the two values
 print the output
 ## Program:
 ```
+#Program to circulate N values.
+#Developed by: S.VAISHNAV NANDA
+#RegisterNumber: 212222240112
 def circulate():
     l=eval(input())
     n=int(input())
@@ -29,7 +32,7 @@ def circulate():
 ```
 
 ## Output:
-![github logo](ex2.png)
+![github logo](cir.png)
 
 ## Result:
 Circulate the n variables using function is successfully executed.

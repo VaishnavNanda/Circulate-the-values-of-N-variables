@@ -32,7 +32,7 @@ def circulate():
 ```
 
 ## Output:
-![github logo](cir.png)
+![github logo](ci.png)
 
 ## Result:
 Circulate the n variables using function is successfully executed.
